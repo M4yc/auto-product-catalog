@@ -43,10 +43,10 @@ Certifique-se de ter o Python instalado em seu ambiente de desenvolvimento. Alé
 
 - Clone o repositório para o seu ambiente local.
 - Navegue até o diretório do projeto.
-- Prepare um arquivo `.txt` com as informações dos produtos no formato especificado (veja [Formato do Arquivo](#formato-do-arquivo)).
+- Prepare um arquivo `.txt` com as informações dos produtos no formato especificado (veja [Formato do Arquivo](./produtos.txt)).
 - Execute o script Python usando o seguinte comando:
 ~~~ 
-python cadastro_produtos.py
+python main.py
 ~~~
 - Siga as instruções fornecidas pelo script para completar o cadastro.
 
