@@ -1,0 +1,63 @@
+Arroz,50,4.99
+Feijão,30,3.49
+Macarrão,40,2.79
+Azeite,20,8.99
+Leite,60,1.99
+Café,25,6.49
+Açúcar,45,2.29
+Sal,15,1.79
+Farinha de Trigo,35,3.99
+Óleo de Soja,28,5.49
+Sabonete,80,0.99
+Shampoo,40,4.79
+Condicionador,35,3.99
+Escova de Dentes,50,1.49
+Pasta de Dentes,45,2.29
+Sabão em Pó,30,7.99
+Amaciante,25,5.99
+Desinfetante,20,3.49
+Álcool em Gel,15,6.99
+Papel Higiênico,65,0.89
+Detergente,40,2.49
+Esponja de Cozinha,50,1.19
+Tomate,30,2.99
+Cebola,25,1.49
+Alho,15,2.79
+Batata,40,1.89
+Maçã,35,3.99
+Banana,50,1.29
+Morango,20,4.49
+Uva,25,5.99
+Laranja,60,1.79
+Limão,15,2.49
+Pão Francês,80,0.99
+Queijo,35,9.99
+Presunto,30,7.49
+Manteiga,25,4.29
+Iogurte,40,3.79
+Ovos,50,0.69
+Carne Moída,20,12.99
+Peito de Frango,25,8.49
+Salsicha,30,5.99
+Salmão,15,15.99
+Atum em Lata,40,4.49
+Arroz Integral,35,5.99
+Feijão Preto,50,3.49
+Macarrão Integral,25,3.79
+Azeite Extra Virgem,20,9.99
+Leite Desnatado,60,2.49
+Café Descafeinado,45,7.49
+Açúcar Mascavo,15,2.99
+Farinha de Aveia,35,4.99
+Óleo de Coco,28,6.99
+Sabonete Líquido,80,1.49
+Condicionador sem Sal,40,5.79
+Escova Dental Elétrica,35,19.99
+Pasta de Dentes Natural,50,3.99
+Sabão em Barra,30,1.99
+Amaciante Concentrado,25,6.49
+Desinfetante de Lavanda,20,4.99
+Álcool Isopropílico,15,8.99
+Papel Toalha,65,1.49
+Detergente Biodegradável,40,3.99
+Esponja Vegetal,50,1.99
